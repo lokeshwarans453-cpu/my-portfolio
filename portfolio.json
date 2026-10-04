@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "title": "Lokeshwaran | Cloud & DevOps Portfolio",
+    "copyright": "© 2026 Lokeshwaran",
+    "theme": "Cloud & DevOps"
+  },
+
+  "navbar": {
+    "logo": "Lokeshwaran",
+    "links": [
+      { "name": "About", "href": "#about" },
+      { "name": "Skills", "href": "#skills" },
+      { "name": "Projects", "href": "#projects" },
+      { "name": "Education", "href": "#education" },
+      { "name": "Contact", "href": "#contact" }
+    ]
+  },
+
+  "hero": {
+    "name": "Lokeshwaran",
+    "title": "Aspiring Cloud & DevOps Engineer",
+    "button": {
+      "text": "Explore My Work",
+      "link": "#projects"
+    }
+  },
+
+  "about": {
+    "heading": "About Me",
+    "description": "I am a B.Tech IT student passionate about Cloud Computing and DevOps. I enjoy building real-world projects using AWS, Linux, Git, and CI/CD tools. My goal is to become a skilled Cloud / DevOps Engineer."
+  },
+
+  "skills": {
+    "heading": "Skills",
+    "items": [
+      "HTML & CSS",
+      "JavaScript (Basics)",
+      "AWS (S3, EC2, IAM)",
+      "Linux",
+      "Git & GitHub",
+      "DevOps Fundamentals"
+    ]
+  },
+
+  "projects": {
+    "heading": "Projects",
+    "items": [
+      {
+        "title": "AWS Static Portfolio",
+        "description": "Hosted a static website on Amazon S3 and delivered using CloudFront."
+      },
+      {
+        "title": "DevOps To-Do App",
+        "description": "Built and deployed a To-Do application using Linux, Apache, and Git."
+      },
+      {
+        "title": "Employee Management System",
+        "description": "Spring Boot application with PostgreSQL and REST APIs."
+      }
+    ]
+  },
+
+  "education": {
+    "heading": "Education",
+    "items": [
+      {
+        "degree": "B.Tech – Information Technology",
+        "institution": "St. Joseph's College of Engineering",
+        "duration": "2024 – 2028",
+        "status": "2nd Year, 4th Semester"
+      },
+      {
+        "degree": "12th Standard",
+        "institution": "Rosily Matric Higher Secondary School",
+        "duration": "2023 – 2024"
+      }
+    ]
+  },
+
+  "contact": {
+    "heading": "Contact",
+    "email": "lokeshwarans453@gmail.com",
+    "phone": "+91 9042077501",
+    "location": "Chennai, India",
+    "linkedin": "https://www.linkedin.com/in/lokeshwaran-s-18870b355/",
+    "github": "https://github.com/lokeshwarans453-cpu"
+  }
+}
